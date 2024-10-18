@@ -1,4 +1,8 @@
 # Detection of Monkeypox Cases Based on Symptoms Using XGBoost and Shapley Additive Explanations Methods
+ study the method to apply to the agr-hitech processing
+
+ article:https://www.mdpi.com/2075-4418/13/14/2391
+
 
 This repository contains the code and dataset for the article "Detection of Monkeypox Cases Based on Symptoms Using XGBoost and Shapley Additive Explanations Methods" published in Diagnostics.
 
